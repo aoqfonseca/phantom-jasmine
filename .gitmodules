@@ -1,3 +1,6 @@
 [submodule "ext/jasmine-reporters"]
 	path = ext/jasmine-reporters
 	url = git://github.com/larrymyers/jasmine-reporters.git
+[submodule "ext/jasmine"]
+	path = ext/jasmine
+	url = git://github.com/pivotal/jasmine.git
